@@ -30,8 +30,8 @@ show_count: false
 # Miscellaneous
 google_analytics:
 gauges_analytics:
-favicon: /favicon.png
-twitter:
+favicon: /media/favicon.png
+twitter: fstraps
 google_plus:
 fb_admins:
 fb_app_id:
