@@ -1,2 +1,6 @@
 # strxfx
-StrxFX static site hosting
+StrxFX static site hosted on netlify
+
+strxfx.netlify.com
+
+powered by Hexo
