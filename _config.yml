@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Strx FX, trading log and tools
-subtitle:
-description:
+title: Strx FX
+subtitle: trading log and tools
+description: Sharing my experience and tools in trading forex, stocks and options
 keywords:
 author: Strx
 language: en
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://strxfx.netlify.com
+url: https://strxfx.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
