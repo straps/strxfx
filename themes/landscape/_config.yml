@@ -12,10 +12,9 @@ fancybox: true
 sidebar: right
 widgets:
 - category
-- tag
 - tagcloud
-- archive
 - recent_posts
+- archive
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
@@ -31,7 +30,7 @@ show_count: false
 google_analytics: 'UA-1808840-19'
 gauges_analytics:
 favicon: /media/favicon.png
-twitter: fstraps
+twitter: 'fstraps'
 google_plus:
 fb_admins:
 fb_app_id:
