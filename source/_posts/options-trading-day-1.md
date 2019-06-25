@@ -21,6 +21,8 @@ My stock target price is at 34.00$
 
 #### Order details
 
+[//]: # (use https://www.tablesgenerator.com/markdown_tables for creating tables)
+
 | Symbol | Type | Position | Strike | Expiration | Q.ty | Filled Price |      Cost | Commissions | Status |
 |:------:|:----:|:--------:|-------:|------------|-----:|-------------:|----------:|------------:|--------|
 | AMD    | CALL |   Long   |  29.50 | 2019-07-19 |   10 |         1.45 |   1450.00 |          10 | Filled |
