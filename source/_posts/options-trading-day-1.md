@@ -17,10 +17,17 @@ Price found a good support at 29.00$ and MA 50 is approaching, acting as a dynam
 
 Trend is clearly bullish
 
-My target is 34.00$
+My stock target price is at 34.00$
 
-Order details
-![Order details image](https://i.imgur.com/19w2zcj.png)
+#### Order details
 
-Updated Portfolio
-![Updated portfolio image](https://i.imgur.com/iaqdKop.png)
+| Symbol | Type | Position | Strike | Expiration | Q.ty | Filled Price |      Cost | Commissions | Status |
+|:------:|:----:|:--------:|-------:|------------|-----:|-------------:|----------:|------------:|--------|
+| AMD    | CALL |   Long   |  29.50 | 2019-07-19 |   10 |         1.45 |   1450.00 |          10 | Filled |
+
+
+#### Updated Portfolio
+
+|      Symbol     | Type | Position | Q.ty | Avg Price | Last    | P/L  |
+|:---------------:|:----:|:--------:|-----:|----------:|--------:|-----:|
+| AMD             | CALL | Long     |   10 |      1.45 | 1.43    | -20  |
