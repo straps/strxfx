@@ -12,6 +12,8 @@ tags:
  - call
 ---
 
+*This post is part of the [Options Trading Experiment](/2019/06/23/options-trading-day-0)*
+
 Found a good setup on {% g $AMD %}
 
 ![AMD on Tradingview](https://www.tradingview.com/x/TpfSgZs7/)
