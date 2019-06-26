@@ -9,15 +9,15 @@ tags:
  - optexp01
 ---
 
-Found a good setup on [KLAC](https://www.tradingview.com/symbols/NASDAQ-KLAC/)
+Found a good setup on {% g $KLAC %}
 
 ![KLAC on Tradingview](https://www.tradingview.com/x/Qtb0z0v1/)
 
-Price has found 2 resistances, one at 115.00 and the other at 177.50
+Price has found 2 resistances, one at 115.00$ and the other at 177.50$
 
 There is also the MA 50 where price bounced more than once
 
-My stock target price is at 102.00, a price that acted as resistance and support over time
+My stock target price is at 102.00$, a price that acted as resistance and support over time
 
 #### Order details
 
@@ -32,6 +32,6 @@ My stock target price is at 102.00, a price that acted as resistance and support
 
 | Symbol | Type | Position | Q.ty | Avg Price | Last |  P/L |
 |:------:|:----:|:--------:|-----:|----------:|-----:|-----:|
-|   AMD  | CALL |   Long   |   10 |      1.45 | 1.25 | -200 |
+| AMD    | CALL |   Long   |   10 |      1.45 | 1.25 | -200 |
 | KLAC   | PUT  | Long     | 6    | 1.90      | 1.80 | -60  |
 

@@ -9,7 +9,7 @@ tags:
  - optexp01
 ---
 
-Found a good setup on [AMD](https://www.tradingview.com/symbols/NASDAQ-AMD/)
+Found a good setup on {% g $AMD %}
 
 ![AMD on Tradingview](https://www.tradingview.com/x/TpfSgZs7/)
 
