@@ -3,6 +3,7 @@ title: 'Options Trading, Day 0'
 date: 2019-06-23 11:25:48
 categories:
  - Trading
+ - Options
 tags:
  - options
  - trading

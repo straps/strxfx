@@ -3,10 +3,13 @@ title: 'Options Trading, Day 1, Buy AMD Call'
 date: 2019-06-24 21:11:48
 categories:
  - Trading
+ - Options
 tags:
  - options
  - trading
  - optexp01
+ - amd
+ - call
 ---
 
 Found a good setup on {% g $AMD %}

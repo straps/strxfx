@@ -3,10 +3,13 @@ title: 'Options Trading, Day 2, Buy KLAC Put'
 date: 2019-06-25 21:17:00
 categories:
  - Trading
+ - Options
 tags:
  - options
  - trading
  - optexp01
+ - klac
+ - put
 ---
 
 Found a good setup on {% g $KLAC %}
