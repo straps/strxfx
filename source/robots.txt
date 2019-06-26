@@ -1,0 +1,2 @@
+Host: strxfx.com
+Sitemap: https://strxfx.com/sitemap.xml
