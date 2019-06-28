@@ -1,5 +1,5 @@
 ---
-title: 'Options Trading, Day 2, Buy KLAC Put'
+title: 'Options Trading, Day 2, Buy $KLAC Put'
 date: 2019-06-25 21:17:00
 categories:
  - Trading
@@ -14,7 +14,7 @@ tags:
 
 *This post is part of the [Options Trading Experiment](/2019/06/23/options-trading-day-0)*
 
-Found a good setup on {% g $KLAC %}
+Found a good setup on {% finviz $KLAC %}
 
 ![KLAC on Tradingview](https://www.tradingview.com/x/Qtb0z0v1/)
 

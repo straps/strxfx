@@ -1,0 +1,16 @@
+<div class="article-share-buttons">
+  <a target="_blank"
+    href="https://api.stocktwits.com/widgets/share?body=<%- encodeURIComponent(post.title)+' | '+encodeURIComponent(post.permalink) %>">
+    <img title="Share on Stocktwits" src="https://stocktwits.com/favicon.ico">
+  </a>
+  <a target="_blank"
+    href="http://twitter.com/share?text=<%- encodeURIComponent(post.title+' | ') %>&url=<%- encodeURIComponent(post.permalink)%>&hashtags=<%- post.tags.map(function(t){return t.name;}).join(','); %>">
+    <img title="Share on Twitter" src="https://twitter.com/favicon.ico">
+  </a>
+  <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=<%- encodeURIComponent(post.permalink)%>">
+    <img title="Share on Facebook" src="https://facebook.com/favicon.ico">
+  </a>
+  <!--<a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url=<%- encodeURIComponent(post.permalink)%>">
+          <img title="Share on Linkedin" src="https://linkedin.com/favicon.ico">
+        </a>-->
+</div>

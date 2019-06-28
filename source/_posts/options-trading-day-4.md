@@ -1,5 +1,5 @@
 ---
-title: 'Options Trading, Day 4, Buy KDP Call'
+title: 'Options Trading, Day 4, Buy $KDP Call'
 date: 2019-06-27 22:40:00
 categories:
  - Trading

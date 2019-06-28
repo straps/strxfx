@@ -1,5 +1,5 @@
 ---
-title: 'Options Trading, Day 1, Buy AMD Call'
+title: 'Options Trading, Day 1, Buy $AMD Call'
 date: 2019-06-24 21:11:48
 categories:
  - Trading
@@ -14,7 +14,7 @@ tags:
 
 *This post is part of the [Options Trading Experiment](/2019/06/23/options-trading-day-0)*
 
-Found a good setup on {% g $AMD %}
+Found a good setup on {% finviz $AMD %}
 
 ![AMD on Tradingview](https://www.tradingview.com/x/TpfSgZs7/)
 

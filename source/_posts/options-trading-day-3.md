@@ -1,5 +1,5 @@
 ---
-title: 'Options Trading, Day 3, Buy ZM Call'
+title: 'Options Trading, Day 3, Buy $ZM Call'
 date: 2019-06-26 22:50:00
 categories:
  - Trading
@@ -14,7 +14,7 @@ tags:
 
 *This post is part of the [Options Trading Experiment](/2019/06/23/options-trading-day-0)*
 
-Zoom Video Communications, Inc. {% g $ZM %} is a provider of video and web conferencing services that could be an interesting play for investors
+Zoom Video Communications, Inc. {% finviz $ZM %} is a provider of video and web conferencing services that could be an interesting play for investors
 
 ![ZM on Finviz](https://finviz.com/publish/062619/ZMc1dl1503.png)
 
