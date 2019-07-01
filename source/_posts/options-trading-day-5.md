@@ -42,4 +42,4 @@ No portfolio adjustments for today
 
 *picture taken 2 hours after placing the order, price has broken the 33$ resistance,  see what happen ...*
 
-Account Net Worth: {% color red 99.610$ %}
+Account Net Worth: {% color red 99,610.00$ %}
