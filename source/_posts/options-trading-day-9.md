@@ -14,7 +14,7 @@ tags:
 
 *This post is part of the [Options Trading Experiment](/2019/06/23/options-trading-day-0)*
 
-NVIDIA Corporation {% finviz $NVDA %} is in the semiconductor business, in particular is the worlds main producer of computers [GPUs](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+NVIDIA Corporation {% finviz $NVDA %} is in the semiconductor business, in particular is the world's main manufacturer of computer [GPUs](https://en.wikipedia.org/wiki/Graphics_processing_unit)
 
 ![NVDA on Finviz](https://finviz.com/publish/070219/NVDAc1dl1455.png)
 
