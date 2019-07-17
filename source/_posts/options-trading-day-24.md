@@ -1,5 +1,5 @@
 ---
-title: 'Options Trading, Day 23, Buy $AMGN Put'
+title: 'Options Trading, Day 24, Buy $AMGN Put'
 date: 2019-07-17 21:10:00
 categories:
  - Trading
